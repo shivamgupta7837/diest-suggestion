@@ -1,0 +1,1 @@
+enum bodyType {normal_weight,over_weight,under_weight}
